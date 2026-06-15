@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=0EA5E9&center=true&vCenter=true&width=820&lines=Willian+Roy+Canazas+Rosas;Cloud+%26+DevOps+Junior+in+Progress;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Terraform+%7C+Ansible+%7C+Jenkins+%7C+Cisco+Networking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=0EA5E9&center=true&vCenter=true&width=820&lines=Willian+Roy+Canazas+Rosas;Cloud+%26+DevOps+Junior+in+Progress;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Terraform+%7C+Ansible+%7C+Jenkins+%7C+Networking" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/guallycanazas?tab=repositories"><img src="https://img.shields.io/github/repo-count/guallycanazas?style=for-the-badge&label=Repos&color=0ea5e9" alt="Public repositories" /></a>
+  <a href="https://github.com/guallycanazas?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Projects-0ea5e9?style=for-the-badge&logo=github" alt="Portfolio projects" /></a>
   <a href="https://github.com/guallycanazas?tab=stars"><img src="https://img.shields.io/github/stars/guallycanazas?style=for-the-badge&label=Stars&color=22c55e" alt="GitHub stars" /></a>
   <a href="https://komarev.com/ghpvc/?username=guallycanazas"><img src="https://komarev.com/ghpvc/?username=guallycanazas&style=for-the-badge&label=Views&color=f97316" alt="Profile views" /></a>
 </p>
@@ -18,13 +18,13 @@
 
 ## Hi, I'm Gually
 
-Telecommunications Engineering graduate focused on **Cloud, DevOps, Linux infrastructure, networking and backend systems**. I like building practical labs: containerized apps, CI/CD workflows, Linux services, monitoring dashboards, and cloud deployments that are documented enough to repeat.
+Telecommunications Engineering graduate focused on **Cloud, DevOps, Linux infrastructure, networking, backend systems and data-driven solutions**. I build practical labs around containerized applications, CI/CD workflows, Linux services, monitoring dashboards and cloud deployments with clear technical documentation.
 
 ```yaml
 profile: Cloud & DevOps Junior
 location: Arequipa, Peru
 primary_stack: [AWS, Linux, Ubuntu Server, RHEL, Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD]
-specialties: [Observability, Cisco Networking, Backend, Databases]
+specialties: [Observability, Networking, Backend, Frontend, Databases]
 secondary_stack: [Java, Kotlin, PHP, Spring Boot, Laravel, Flutter, MariaDB]
 target_roles: [Cloud Junior, DevOps Junior, Linux Support, Infrastructure, SRE Junior]
 ```
@@ -45,8 +45,9 @@ target_roles: [Cloud Junior, DevOps Junior, Linux Support, Infrastructure, SRE J
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Observability" />
-  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking" />
+  <img src="https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge" alt="Networking" />
   <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="Frontend" />
   <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases" />
 </p>
 
@@ -72,7 +73,7 @@ target_roles: [Cloud Junior, DevOps Junior, Linux Support, Infrastructure, SRE J
 - **CI/CD:** GitHub Actions, Jenkins and Tekton pipelines for build, test and deployment flows.
 - **Containers:** Docker and Docker Compose for backend, frontend and database services.
 - **Observability:** Prometheus metrics, Grafana dashboards, Loki logs and Linux troubleshooting.
-- **Networking:** IPv4/IPv6, subnetting, VLANs, routing, switching, DNS, DHCP, OSPF and Cisco fundamentals.
+- **Networking:** IPv4/IPv6, subnetting, VLANs, routing, switching, DNS, DHCP, OSPF and troubleshooting fundamentals.
 
 ---
 
@@ -105,7 +106,6 @@ target_roles: [Cloud Junior, DevOps Junior, Linux Support, Infrastructure, SRE J
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
         <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
         <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHEL" />
-        <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
         <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white" alt="WSL" />
         <img src="https://img.shields.io/badge/SSH-111827?style=flat-square" alt="SSH" />
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
@@ -116,13 +116,16 @@ target_roles: [Cloud Junior, DevOps Junior, Linux Support, Infrastructure, SRE J
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Backend & Data</h3>
+      <h3>Backend, Frontend & Data</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -132,7 +135,7 @@ target_roles: [Cloud Junior, DevOps Junior, Linux Support, Infrastructure, SRE J
     <td width="50%" valign="top">
       <h3>Networking & Security</h3>
       <p>
-        <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+        <img src="https://img.shields.io/badge/Networking-1BA0D7?style=flat-square" alt="Networking" />
         <img src="https://img.shields.io/badge/TCP%2FIP-0F172A?style=flat-square" alt="TCP/IP" />
         <img src="https://img.shields.io/badge/DNS-2563EB?style=flat-square" alt="DNS" />
         <img src="https://img.shields.io/badge/OSPF-64748B?style=flat-square" alt="OSPF" />
@@ -151,8 +154,6 @@ target_roles: [Cloud Junior, DevOps Junior, Linux Support, Infrastructure, SRE J
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
 </p>
 
 ---
@@ -161,9 +162,12 @@ target_roles: [Cloud Junior, DevOps Junior, Linux Support, Infrastructure, SRE J
 
 | Certificate | Issuer | Area |
 |:---|:---:|:---|
-| **Google Cybersecurity Professional Certificate** | Google | Security, Linux, SIEM, networks, incident response |
+| **Google Cybersecurity** | Google | Security, Linux, SIEM, networks, incident response |
+| **IBM Data Science** | IBM | Python, data analysis, machine learning and applied data workflows |
+| **IBM DevOps and Software Engineering** | IBM | DevOps practices, CI/CD, containers, Kubernetes and cloud native delivery |
 | **IBM Full-Stack JavaScript Developer** | IBM | React, Node.js, Express, MongoDB, cloud native apps |
-| **Microsoft SQL Server Professional Certificate** | Microsoft | SQL Server, relational databases and queries |
+| **Microsoft Python Development** | Microsoft | Python programming and software development fundamentals |
+| **Microsoft SQL Server** | Microsoft | SQL Server, relational databases and queries |
 | **Microsoft Power BI Data Analyst** | Microsoft | BI dashboards, analytics and reporting |
 | **CCNA 1, 2 & 3** | Cisco Networking Academy | Networking, switching, routing, wireless and automation |
 
@@ -199,7 +203,7 @@ target_roles: [Cloud Junior, DevOps Junior, Linux Support, Infrastructure, SRE J
 ---
 
 <p align="center">
-  <b>Learning by building, documenting, breaking things in labs, and fixing them before production can complain.</b>
+  <b>Building practical cloud, DevOps and software engineering projects with clear documentation and continuous improvement.</b>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:22c55e,100:f97316&height=100&section=footer" alt="Footer wave" />
 </p>

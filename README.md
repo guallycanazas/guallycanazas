@@ -179,7 +179,7 @@ target_roles: [Cloud Junior, DevOps Junior, Linux Support, Infrastructure, SRE J
 |:---|:---|:---:|
 | **MSc in Systems Engineering, Software Engineering track** | Universidad Nacional Mayor de San Marcos | 2026 - Present |
 | **Telecommunications Engineering** | Universidad Nacional de San Agustin de Arequipa | Graduate |
-| **Computing and Informatics** | CIBERTEC | 2024 - Present |
+| **Computing and Informatics** | CIBERTEC | 2025 - Present |
 
 ---
 
